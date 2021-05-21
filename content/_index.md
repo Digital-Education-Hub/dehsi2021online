@@ -1,11 +1,13 @@
 +++
 date = "2017-06-26T18:27:58+01:00"
-title = "The Digital Education Hub Summer Institute 2021"
+title = "Digital Education Hub Summer Institute 2021"
 +++
 
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
 Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
+
+{{< qualtrics src="SV_88pWPXjyLinhTE1" >}}
 
 A documentation builder for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
 
