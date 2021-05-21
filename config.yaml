@@ -15,8 +15,8 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  description: The Digital Education Hub Summer Institute Online Workbook.
+  homeMetaContent: The Digital Education Hub Summer Institute Online Workbook.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
@@ -25,13 +25,13 @@ params:
   search: true
   showThemeSwitcher: true
   moveFooterToHeader: false
-  logoAlt: "An alternative text description of the logo"
-  customCss:
-    - css/custom_01.css
-    - css/custom_02.css
-  customJs:
-    - js/custom_01.js
-    - js/custom_02.js
+  logoAlt: "DEH Summer Institute Logo"
+  #customCss:
+  #  - css/custom_01.css
+  #  - css/custom_02.css
+  #customJs:
+  #  - js/custom_01.js
+  #  - js/custom_02.js
 
 menu:
   nav:
