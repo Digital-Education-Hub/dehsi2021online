@@ -1,4 +1,4 @@
 +++
-title = "Collaborative Inquiry Process"
+title = "5. Collaborative Inquiry Process"
 weight = 5
 +++

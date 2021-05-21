@@ -1,4 +1,4 @@
 +++
-title = "Agreements (R.O.A.R.S.)"
+title = "6. Agreements (R.O.A.R.S.)"
 weight = 6
 +++
