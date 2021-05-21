@@ -7,7 +7,7 @@ title = "Digital Education Hub Summer Institute 2021"
 
 Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
-{{< awesome fas fa-edit >}}{{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
+{{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
 
 A documentation builder for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
 
