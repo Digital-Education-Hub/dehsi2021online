@@ -26,8 +26,8 @@ params:
   showThemeSwitcher: true
   moveFooterToHeader: false
   logoAlt: "DEH Summer Institute Logo"
-  #customCss:
-  #  - css/custom_01.css
+  customCss:
+    - css/icons.css
   #  - css/custom_02.css
   #customJs:
   #  - js/custom_01.js
