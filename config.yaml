@@ -1,15 +1,15 @@
-baseURL: localhost:1313/
+#baseURL: localhost:1313/
 languageCode: en-us
 defaultContentLanguage: en
 title: Digital Education Hub Summer Institute 2021
 theme: cupper-hugo-theme
-#enableGitInfo: true
+enableGitInfo: true
 
 taxonomies:
   tag: tags
 
-permalinks:
-  post: /:filename/
+#permalinks:
+#  post: /:filename/
 
 imaging:
   quality: 99
@@ -42,7 +42,7 @@ menu:
       url: /background/
       weight: 2
     - name: Day 1
-      url: /Day 1/
+      url: /day1/
       weight: 3
     - name: Day 2
       url: /day2/
