@@ -1,4 +1,4 @@
 +++
 title = "2. Meet The DEH Team"
-weight = 2
+weight = 5
 +++
