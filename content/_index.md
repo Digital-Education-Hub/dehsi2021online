@@ -5,7 +5,7 @@ title = "Digital Education Hub Summer Institute 2021"
 
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
-{{< fontawesome "fas fa-edit" >}} Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
+<span class="icon"><i class="fa fa-cube"></i></span> Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
 {{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
 
