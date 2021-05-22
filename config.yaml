@@ -27,7 +27,7 @@ params:
   moveFooterToHeader: false
   logoAlt: "DEH Summer Institute Logo"
   customCss:
-  #  - css/all.css
+    - css/all.css
   #  - css/brands.css
   #  - css/custom_02.css
   customJs:
