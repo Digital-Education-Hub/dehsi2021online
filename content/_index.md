@@ -5,8 +5,6 @@ title = "Digital Education Hub Summer Institute 2021"
 
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
-{{< fa bath 2x >}}
-
 Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
 {{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
@@ -23,4 +21,4 @@ A documentation builder for inclusive designers and those trying to be inclusive
 * Includes a single-page printable version suitable for PDF conversion
 {{% /ticks %}}
 
-To get started, take a look at.
+To get started, take a look at. https://matze.rocks/posts/fontawesome_in_hugo/
