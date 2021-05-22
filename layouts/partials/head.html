@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <script src="https://kit.fontawesome.com/061f702efb.js" crossorigin="anonymous"></script>
+
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .RelPermalink }}">
 
@@ -40,6 +40,8 @@
   {{ range .Site.Params.customCss }}
     <link rel="stylesheet" href="{{ . | relURL }}">
   {{ end }}
+
+    <script src="assets/all.js"></script>
 
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
