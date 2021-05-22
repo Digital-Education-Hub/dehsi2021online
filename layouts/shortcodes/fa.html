@@ -4,7 +4,7 @@
   {{ $faStylePrefix = (.Get 0) }}
 {{ end }}
 
-<i class="{{ $faStylePrefix }} {{ range $iconName := .Params }} fa-{{ $iconName }} {{ end }}">
+<i class="{{ $faStylePrefix }} {{ range $iconName := .Params }} fa-{{ $iconName }} {{ end }}" style="padding-right: 0.25rem;">
   <!-- Load font awesome only once per page, load it inside the <i> element
     so it does not disturb the text flow (like removing spaces) -->
   {{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
