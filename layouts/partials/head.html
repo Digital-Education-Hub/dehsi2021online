@@ -41,8 +41,6 @@
     <link rel="stylesheet" href="{{ . | relURL }}">
   {{ end }}
 
-    <script src="all.js"></script>
-
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
