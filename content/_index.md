@@ -2,7 +2,7 @@
 date = "2017-06-26T18:27:58+01:00"
 title = "Digital Education Hub Summer Institute 2021"
 +++
-<script src="https://kit.fontawesome.com/061f702efb.js" crossorigin="anonymous"></script>
+
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
 <i class="fas fa-camera"></i>
