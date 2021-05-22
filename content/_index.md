@@ -11,7 +11,7 @@ Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
 {{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
 
-A documentation builder {{<  >}} for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
+A documentation builder for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
 
 {{% ticks %}}
 * Built with [Hugo](https://gohugo.io/), so easy to structure content and fast to compile it
