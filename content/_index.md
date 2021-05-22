@@ -2,14 +2,16 @@
 date = "2017-06-26T18:27:58+01:00"
 title = "Digital Education Hub Summer Institute 2021"
 +++
-
+<script src="https://kit.fontawesome.com/061f702efb.js" crossorigin="anonymous"></script>
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
-{{< fa bath 2x >}}Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
+<i class="fas fa-camera"></i>
+
+{{< fa bath >}}Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
 {{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
 
-A documentation builder for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
+A documentation builder {{<  >}} for inclusive designers and those trying to be inclusive designers. These are **Cupper's** docs, but they are also an example of a site built with **Cupper**. Here are some of its features:
 
 {{% ticks %}}
 * Built with [Hugo](https://gohugo.io/), so easy to structure content and fast to compile it
