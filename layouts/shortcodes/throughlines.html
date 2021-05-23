@@ -6,15 +6,13 @@
     </h2>
     <div style="padding: 0.5rem;">
       <p style="margin-top: 0px;">
-        <i class="fas fa-book" style="padding-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
+        <i class="fas fa-book" style="margin-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
       </p>
       <p>
-        <i class="fas fa-handshake" style="padding-right: 0.5rem;"></i><em>Commitments:</em></p>
+        <i class="fas fa-handshake" style="margin-right: 0.5rem;"></i><em>Commitments:</em></p>
       <ul>
       {{ range .commitments }}
-        <li>
-          <span class="fa-li"></span>{{ . }}
-        </li>
+        <li>{{ . }}</li>
       {{ end }}
       </ul>
     </div>
