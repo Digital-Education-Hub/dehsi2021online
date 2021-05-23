@@ -1,0 +1,83 @@
+{
+  "title": "Digital Education Hub Throughlines",
+  "authors": [
+    "Jeremy F Price",
+    "Paula Magee",
+    "Cristina Santamaría Graff",
+    "Ted Hall",
+    "Brooke Moreland",
+    "Amy Waechter-Versaw"
+  ],
+  "throughlines": [
+    {
+      "title": "Empowering Families and Communities",
+      "short_title": "empowering",
+      "definition": "Families and community members are key stakeholders in determining the ways materials and resources are accessible, equitable, and inclusive for all students.",
+      "color": "#074369",
+      "commitments": [
+        "Families and communities are recognized for the strengths, assets, and expertise they bring to the table.",
+        "Families and communities contribute to the decision making that impacts student learning.",
+        "Materials and resources are representative and reflective of families' and communities' backgrounds, legacies, and histories."
+      ]
+    },
+    {
+      "title": "Coalition Building",
+      "short_title": "coalition",
+      "definition": "The educational environment is co-constructed through a historical reciprocal process of interdependence to ensure all voices are included in building equitable and inclusive learning networks and partnerships.",
+      "color": "#F5BB17",
+      "commitments": [
+        "Building coalitions is based in sustainable long-term commitments.",
+        "Coalitions intentionally include groups that are typically excluded.",
+        "Coalitions work to set mutually inclusive goals.",
+        "Coalitions raise awareness of power dynamics and work to dismantle them."
+      ]
+    },
+    {
+      "title": "Equitable Practices and Systems",
+      "short_title": "equitable",
+      "definition": "Leading learning and knowledge sharing is mediated through equitable and inclusive dispositions and decision-making processes that promote the success of disenfranchised learners and communities.",
+      "color": "#C30823",
+      "commitments": [
+        "Shifts in expectations, outcomes, and evaluation mechanisms are necessary for equitable practices and systems to occur.",
+        "Entry into equitable and inclusive practices start with the most marginalized communities and identities due to systemic barriers.",
+        "Instructional decisions acknowledge and build on individual students' intersecting multiple identities and community memberships.",
+        "Equitable practices and systems involve Interdisciplinary work that is rooted in equity and inclusion."
+      ]
+    },
+    {
+      "title": "Multiple Ways of Knowing and Doing",
+      "short_title": "multiple",
+      "definition": "The knowledge and wisdom of the students, families, and communities are centered in content and materials to promote equitable and inclusive learning experiences.",
+      "color": "#97040B",
+      "commitments": [
+        "Instructional materials, curriculum, and activities are rooted in the intersecting backgrounds, experiences, and legacies of families, communities, and learners.",
+        "Instructional materials, curriculum, and activities facilitate productive tensions between honor, acknowledge and build upon the knowledge and processes of individual students' intersecting multiple identities and community memberships.",
+        "Instructional materials, curriculum, and activities promote multiple pathways for action and outcomes."
+      ]
+    },
+    {
+      "title": "Intentional Use of Technology",
+      "short_title": "technology",
+      "definition": "Technology is used in a purposeful manner that is informed by context and is oriented towards building equitable and inclusive learning environments.",
+      "color": "#512B44",
+      "commitments": [
+        "Technology is used in a way to facilitate sharing, communicating and deep inquiry.",
+        "Technology is used in a way that empowers knowledge and facilitates contributing to the classroom and society.",
+        "Technology is used in a way that builds upon the assets, goals, and practices of communities and families.",
+        "Technology is used in a way that aligns affordances with contexts."
+      ]
+    },
+    {
+      "title": "Deep and Transformational Learning",
+      "short_title": "learning",
+      "definition": "The promotion of academic success and transformational ends through a rigorous and integrated process that honors learners and communities as cultural entities and works to change the world to be a more equitable and inclusive place.",
+      "color": "#4EAFC6",
+      "commitments": [
+        "The ends of learning emphasize deep inquiry and higher order thinking into authentic topics and concepts.",
+        "The ends of learning require that creative and analytic skills and practices be oriented towards shared agency and transformation.",
+        "The ends of learning honor cultural and community ways of knowing and doing as assets.",
+        "The ends of learning involve rigorous interdisciplinarity to promote shared agency and transformation."
+      ]
+    }
+  ]
+}
