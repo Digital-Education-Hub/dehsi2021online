@@ -1,16 +1,12 @@
 {{ $JSON := $.Site.Data.throughlines }}
-<ul>
-  {{ range $JSON.throughlines }}
-      <li>
-        <strong>
-          <a href="https://inclusivedesignprinciples.org#{{ .title | urlize }}">
-            <svg class="balloon-icon" viewBox="0 0 141.73228 177.16535" aria-hidden="true" focusable="false">
-              <use xlink:href="#balloon"></use>
-            </svg>
-            {{ .title }}
-          </a>:
-        </strong>
-        <em>{{ .definition }}</em>
-      </li>
-  {{ end }}
-</ul>
+{{ range $JSON.throughlines }}
+  <div style="border: solid 2px {{ $JSON.color }}; padding: 0px;">
+    <h2 style="background-color: {{ $JSON.color }};">{{ .title }}</h2>
+    <p><em>{{ .definition }}</em></p>
+    <ul>
+    {{ range .commitments }}
+      <li>{{ . }}</li>
+    {{ end }}
+    </ul>
+  </div>
+{{ end }}
