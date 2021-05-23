@@ -1,14 +1,15 @@
 {{ $JSON := $.Site.Data.throughlines }}
 {{ range $JSON.throughlines }}
-  <div style="border: solid 2px {{ .color }}; padding-top: 0px;">
+  <div style="border: solid 2px {{ .color }}; padding: 0.5rem;">
     <h2 style="background-color: {{ .color }}; color: white;">
       <!--<img src="images/throughline-icons/{{ .short_title }}-small.png" alt="{{ .title }} icon" />--> {{ .title }}
     </h2>
     <p><em>{{ .definition }}</em></p>
+    <p>Commitments:</p>
     <ul class="fa-ul">
     {{ range .commitments }}
       <li>
-        <span class="fa-li"><i class="fas fa-project-diagram"></i></span>{{ . }}
+        <span class="fa-li"><i class="fas fa-handshake"></i></span>{{ . }}
       </li>
     {{ end }}
     </ul>
