@@ -62,7 +62,7 @@
     {
       "title": "Intentional Use of Technology",
       "short_title": "technology",
-      "img": "images/throughlines-icons/technology-small.png",
+      "img": "/images/throughlines-icons/technology-small.png",
       "definition": "Technology is used in a purposeful manner that is informed by context and is oriented towards building equitable and inclusive learning environments.",
       "color": "#512B44",
       "commitments": [
