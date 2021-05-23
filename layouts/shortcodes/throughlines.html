@@ -1,7 +1,7 @@
 {{ $JSON := $.Site.Data.throughlines }}
 {{ range $JSON.throughlines }}
-  <div style="border: solid 2px {{ $JSON.color }}; padding: 0px;">
-    <h2 style="background-color: {{ $JSON.color }};">{{ .title }}</h2>
+  <div style="border: solid 2px {{ .color }}; padding-top: 0px;">
+    <h2 style="background-color: {{ .color }};">{{ .title }}</h2>
     <p><em>{{ .definition }}</em></p>
     <ul>
     {{ range .commitments }}
