@@ -1,10 +1,6 @@
 {{ $JSON := $.Site.Data.throughlines }}
-{{ $included := replace (.Get "include") ", " "," }}
-{{ $included := apply (split $included ",") "lower" "." }}
-{{ $commitments := .Get "commitments" }}
-<ul class="principles {{ if and ($commitments) (ne $commitments "false") }}with-desc{{ end }}">
+<ul>
   {{ range $JSON.throughlines }}
-    {{ if in $included (lower .short_title) }}
       <li>
         <strong>
           <a href="https://inclusivedesignprinciples.org#{{ .title | urlize }}">
@@ -15,10 +11,6 @@
           </a>:
         </strong>
         <em>{{ .definition }}</em>
-        {{ if and ($commitments) (ne $commitments "false") }}
-          <p>{{ .commitments }}</p>
-        {{ end }}
       </li>
-    {{ end }}
   {{ end }}
 </ul>
