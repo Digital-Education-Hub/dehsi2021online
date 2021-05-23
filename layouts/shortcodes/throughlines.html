@@ -1,4 +1,5 @@
 {{ $JSON := $.Site.Data.throughlines }}
+{{ $img :="" }}
 {{ range $JSON.throughlines }}
   {{ $img := .img }}
   <div style="border: solid 2px {{ .color }}; padding: 0px;">
