@@ -12,7 +12,6 @@
     {
       "title": "Empowering Families and Communities",
       "short_title": "empowering",
-      "img": "images/throughlines-icons/empowering-small.png",
       "definition": "Families and community members are key stakeholders in determining the ways materials and resources are accessible, equitable, and inclusive for all students.",
       "color": "#074369",
       "commitments": [
@@ -37,7 +36,6 @@
     {
       "title": "Equitable Practices and Systems",
       "short_title": "equitable",
-      "img": "images/throughlines-icons/equitable-small.png",
       "definition": "Leading learning and knowledge sharing is mediated through equitable and inclusive dispositions and decision-making processes that promote the success of disenfranchised learners and communities.",
       "color": "#C30823",
       "commitments": [
@@ -50,7 +48,6 @@
     {
       "title": "Multiple Ways of Knowing and Doing",
       "short_title": "multiple",
-      "img": "images/throughlines-icons/multiple-small.png",
       "definition": "The knowledge and wisdom of the students, families, and communities are centered in content and materials to promote equitable and inclusive learning experiences.",
       "color": "#97040B",
       "commitments": [
@@ -62,7 +59,6 @@
     {
       "title": "Intentional Use of Technology",
       "short_title": "technology",
-      "img": "/images/throughlines-icons/technology-small.png",
       "definition": "Technology is used in a purposeful manner that is informed by context and is oriented towards building equitable and inclusive learning environments.",
       "color": "#512B44",
       "commitments": [
@@ -75,7 +71,6 @@
     {
       "title": "Deep and Transformational Learning",
       "short_title": "learning",
-      "img": "images/throughlines-icons/empowering-small.png",
       "definition": "The promotion of academic success and transformational ends through a rigorous and integrated process that honors learners and communities as cultural entities and works to change the world to be a more equitable and inclusive place.",
       "color": "#4EAFC6",
       "commitments": [

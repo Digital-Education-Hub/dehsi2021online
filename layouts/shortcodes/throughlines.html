@@ -5,16 +5,18 @@
       <img src="/images/throughlines_icons/{{ .short_title }}-small.png" alt="{{ .title }} icon" style="padding:right: 0.5rem;" /> {{ .title }}
     </h2>
     <div style="padding: 0.5rem;">
-      <p style="margin-top: 0px;">
-        <i class="fas fa-book" style="margin-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
-      </p>
-      <p>
-        <i class="fas fa-handshake" style="margin-right: 0.5rem;"></i><em>Commitments:</em></p>
-      <ul>
-      {{ range .commitments }}
-        <li>{{ . }}</li>
-      {{ end }}
+      <ul class="fa-ul">
+        <li class="fa-li">
+          <i class="fas fa-book" style="margin-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
+        </li>
+        <li class="fa-li">
+          <i class="fas fa-handshake" style="margin-right: 0.5rem;"></i><em>Commitments:</em>
+        </li>
+        <ul>
+        {{ range .commitments }}
+          <li>{{ . }}</li>
+        {{ end }}
+        </ul>
       </ul>
-    </div>
   </div>
 {{ end }}
