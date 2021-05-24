@@ -7,7 +7,7 @@ title = "Digital Education Hub Summer Institute 2021"
 
 Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
 
-{{< inquiry "engage" >}}
+{{< inquiry include="engage" >}}
 
 {{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
 
