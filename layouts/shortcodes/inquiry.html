@@ -1,7 +1,7 @@
 {{- $included := replace (.Get "include") ", " "," -}}
 {{- $included := split $included "," -}}
 
-  <div style="border: solid 2px #990000; padding: 0px;">
+  <div style="border: solid 2px #990000; padding: 0px; text-align: center;">
     <h2 style="background-color: #990000; color: white; margin-bottom: 0px; padding-bottom: 0px; font-size: 1rem;"><i class="fas fa-sync-alt" style="padding-right: 0.25rem;"></i>Inquiry Cycle Connections</h2>
     {{- if in $included "engage" -}}
       <div style="padding: 0.5rem; display: inline-block;">
