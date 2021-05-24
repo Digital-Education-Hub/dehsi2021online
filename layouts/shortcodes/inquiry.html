@@ -1,30 +1,30 @@
-{{ $included := replace (.Get "include") ", " "," }}
-{{ $included := split $included "," }}
+{{- $included := replace (.Get "include") ", " "," -}}
+{{- $included := split $included "," -}}
 
   <div style="border: solid 2px #990000; padding: 0px;">
     <h2 style="background-color: #990000; color: white; margin-bottom: 0px; padding-bottom: 0px; text-size: 0.75rem;">Inquiry Cycle Connections</h2>
-    {{ if in $included "engage" }}
-      <div style="padding: 0.5rem; display: inline;">
+    {{- if in $included "engage" -}}
+      <div style="padding: 0.5rem; display: inline-block;">
         <img src="/images/inquiry-icons/engage-small.png" alt="Engage Icon" /><br>
         <strong>Engage</strong>
       </div>
-    {{ end }}
-    {{ if in $included "interact" }}
-      <div style="padding: 0.5rem; display: inline;">
+    {{- end -}}
+    {{- if in $included "interact" -}}
+      <div style="padding: 0.5rem; display: inline-block;">
         <img src="/images/inquiry-icons/interact-small.png" alt="interact Icon" /><br>
-        <strong>Engage</strong>
+        <strong>Interact</strong>
       </div>
-    {{ end }}
-    {{ if in $included "integrate" }}
-      <div style="padding: 0.5rem; display: inline;">
+    {{- end -}}
+    {{- if in $included "integrate" -}}
+      <div style="padding: 0.5rem; display: inline-block;">
         <img src="/images/inquiry-icons/integrate-small.png" alt="Integrate Icon" /><br>
         <strong>Integrate</strong>
       </div>
-    {{ end }}
-    {{ if in $included "reflect" }}
-      <div style="padding: 0.5rem; display: inline;">
+    {{- end -}}
+    {{- if in $included "reflect" -}}
+      <div style="padding: 0.5rem; display: inline-block;">
         <img src="/images/inquiry-icons/reflect-small.png" alt="Reflect Icon" /><br>
         <strong>Reflect</strong>
       </div>
-    {{ end }}
+    {{- end -}}
   </div>
