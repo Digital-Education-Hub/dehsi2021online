@@ -27,13 +27,19 @@ Introduction to an Evaluative Action Plan in relation to Empowering Families and
 Large group discussion and takeaways (Think Piece)
 2:45 - 4:00PM: Empowering Families & Activity 2
 
-
-DAY 2 visit pre-Institute contributions & yesterday's evaluations- How can we add to or expand these understandings on empowering families & communities? 
-1:30 - 2:30
+DAY 2
+
 1:00 - 1:30PM: Reflection & Interconnections between Throughlines
-Group Activity: Revisit Home and School Values; Venn Diagram: How are different identities being included/excluded made visible/invisible in schools (in person, online)? What needs to be considered in Coalition Building?
-Large group discussion and takeaways
-Where do we go from here?
-2:45 - 4:00:
+
+1:30 - 2:30:
+-Revisit pre-Institute contributions & yesterday's evaluations- How can we add to or expand these understandings on empowering families & communities?
+
 BREAK
+
+2:45 - 4:00:
+-Group Activity: Revisit Home and School Values; Venn Diagram: How are different identities being included/excluded made visible/invisible in schools (in person, online)? What needs to be considered in Coalition Building?
+-Large group discussion and takeaways
+-Where do we go from here?
+
+
 
