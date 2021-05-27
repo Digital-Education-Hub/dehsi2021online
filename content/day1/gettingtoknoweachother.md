@@ -8,7 +8,7 @@ weight = 3
 
 Modeling + Breakout Group Session
 
-Before beginning, the DEH will model what the activity in the breakout sessions will look like. Break out groups will consist of 3 -4 people.
+Before beginning, the DEH will model what the activity in the breakout sessions will look like. Break out groups will consist of 3 -4 people. 
 
 **Instructions:**
 
