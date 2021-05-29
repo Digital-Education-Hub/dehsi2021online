@@ -1,23 +1,27 @@
-{{ $JSON := $.Site.Data.throughlines }}
-{{ range $JSON.throughlines }}
-  <div style="border: solid 2px {{ .color }}; padding: 0px;">
-    <h2 style="background-color: {{ .color }}; color: white; margin-bottom: 0px; padding-bottom: 0px; text-size: 0.75rem;">
-      <img src="/images/throughlines_icons/{{ .short_title }}-small.png" alt="{{ .title }} icon" style="padding:right: 0.5rem;" /> {{ .title }}
-    </h2>
-    <div style="padding: 0.5rem; text-align: left;">
-      <ul class="fa-ul">
-        <li class="fa-li" style="width: 100%; text-align: left;">
-          <i class="fas fa-book" style="margin-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
-        </li>
-        <li class="fa-li" style="width: 100%; text-align: left;">
-          <i class="fas fa-handshake" style="margin-right: 0.5rem;"></i><em>Commitments:</em>
-        </li>
-        <ul>
-        {{ range .commitments }}
-          <li>{{ . }}</li>
-        {{ end }}
+{{- $JSON := $.Site.Data.throughlines -}}
+{{- $included := replace (.Get "include") ", " "," -}}
+{{- $included := split $included "," -}}
+{{- range $JSON.throughlines -}}
+  {{- if or ( in $included (lower .title) ) (in "all") -}}
+    <div style="border: solid 2px {{ .color }}; padding: 0px;">
+      <h2 style="background-color: {{ .color }}; color: white; margin-bottom: 0px; padding-bottom: 0px; text-size: 0.75rem;">
+        <img src="/images/throughlines_icons/{{ .short_title }}-small.png" alt="{{ .title }} icon" style="padding:right: 0.5rem;" /> {{ .title }}
+      </h2>
+      <div style="padding: 0.5rem; text-align: left;">
+        <ul class="fa-ul">
+          <li class="fa-li" style="width: 100%; text-align: left;">
+            <i class="fas fa-book" style="margin-right: 0.5rem;"></i><em>Definition:</em> {{ .definition }}
+          </li>
+          <li class="fa-li" style="width: 100%; text-align: left;">
+            <i class="fas fa-handshake" style="margin-right: 0.5rem;"></i><em>Commitments:</em>
+          </li>
+          <ul>
+          {{ range .commitments }}
+            <li>{{ . }}</li>
+          {{ end }}
+          </ul>
         </ul>
-      </ul>
+      </div>
     </div>
-  </div>
-{{ end }}
+  {{- end -}}
+{{- end -}}
