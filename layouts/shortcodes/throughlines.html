@@ -2,7 +2,7 @@
 {{- $included := replace (.Get "include") ", " "," -}}
 {{- $included := split $included "," -}}
 {{- range $JSON.throughlines -}}
-  {{- if or ( in $included (lower .title) ) (in "all") -}}
+  {{- if in $included (lower .short_title) -}}
     <div style="border: solid 2px {{ .color }}; padding: 0px;">
       <h2 style="background-color: {{ .color }}; color: white; margin-bottom: 0px; padding-bottom: 0px; text-size: 0.75rem;">
         <img src="/images/throughlines_icons/{{ .short_title }}-small.png" alt="{{ .title }} icon" style="padding:right: 0.5rem;" /> {{ .title }}
