@@ -3,7 +3,7 @@ title = "4. Pre-Institute Contributions"
 weight = 2
 +++
 
-{{ inquiry include="engage, interact" }}
+{{< inquiry include="engage, interact" >}}
 
 **Instructions:**
 
@@ -11,8 +11,8 @@ weight = 2
 -We will consider what we believe to be inclusive and equitable practices as we review a brief summary of these practices as shared by community stakeholders in a previous meeting.
 -With these points in mind, we will evaluate DEH materials/resources thinking specifically about equity and inclusion through the lens of "empowering families and communities."
 
-#####Summary of Pre-Institute Contributions COMMUNITY
-#####**Main Themes -EQUITY**
+### Summary of Pre-Institute Contributions COMMUNITY
+### **Main Themes -EQUITY**
 
 What is equity to you? What does it look like in schools?
 
@@ -26,8 +26,8 @@ What does equity look like in online learning?
 
 -Equity is free access to online resources and tools that benefit each student's learning style and needs. It is also embedded support structures that ensure all students receive the assistance and technological skills they need to be successful.
 
-#####Summary of Pre-Institute Contributions COMMUNITY
-#####**Main Themes -INCLUSION**
+### Summary of Pre-Institute Contributions COMMUNITY
+### **Main Themes -INCLUSION**
 
 What is inclusion to you? What does it look
 like in schools?
@@ -40,4 +40,4 @@ What do inclusive practices look like in the classroom?
 
 What do inclusive practices look like in online settings?
 
--Inclusive practices in online settings are flexible, differentiated, and take a student's individualized learning environment and schedules (time/due dates) into consideration. Inclusive online tools are provided to all students in an equitable manner and give students multiple pathways to engage with and express their learning through resources representative of their learning styles and cultural, familial, and historical backgrounds. 
+-Inclusive practices in online settings are flexible, differentiated, and take a student's individualized learning environment and schedules (time/due dates) into consideration. Inclusive online tools are provided to all students in an equitable manner and give students multiple pathways to engage with and express their learning through resources representative of their learning styles and cultural, familial, and historical backgrounds.

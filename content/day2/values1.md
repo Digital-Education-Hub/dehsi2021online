@@ -5,7 +5,7 @@ weight = 3
 
 Revisit the Jamboard from yesterday on home and school values in the "Getting to Know Each Other" activity.
 
-######**INSTRUCTIONS:** 
+### **INSTRUCTIONS:** 
 
 Working with your groups, please do the following:
 -Expand upon and discuss your home values and what you believe to be school values or expectations. A DEH team member will write these down in a shared document.

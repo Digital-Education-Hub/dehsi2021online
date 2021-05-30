@@ -3,12 +3,12 @@ title = "3. Getting to Know Each Other"
 weight = 3
 +++
 
-{{ inquiry include="engage, reflect" }}
+{{< inquiry include="engage, reflect" >}}
 **Through Our Families & Understandings of School**
 
 Modeling + Breakout Group Session
 
-Before beginning, the DEH will model what the activity in the breakout sessions will look like. Break out groups will consist of 3 -4 people. 
+Before beginning, the DEH will model what the activity in the breakout sessions will look like. Break out groups will consist of 3 -4 people.
 
 **Instructions:**
 

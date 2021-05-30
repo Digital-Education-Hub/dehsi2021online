@@ -3,15 +3,15 @@ title = "3. What Is The DEH?"
 weight = 4
 +++
 
-######About
+### About
 
 In response to the COVID-19 pandemic, educators from the Indiana University School of Education-Indianapolis have innovated the Digital Education Hub for Rigorous Learning with Communities. The Digital Education Hub (DEH) is a comprehensive directory of Education, Resources, and Networking tools and opportunities for educators, community stakeholders, and caregivers. The DEH strives to support Indiana educators, students, and their families as they make sense of education using technology.
 
-######Purpose
+### Purpose
 
 The Digital Education Hub seeks to meet the challenge of remote learning in context and community, grounded in the principles of Culturally Relevant Pedagogy and Universal Design for Learning, the Indiana University School of Education-Indianapolis at IUPUI proposes the Digital Education Hub (DEH) for Rigorous Remote Learning with Communities.
 
-######Objectives
+### Objectives
 
 (1) **The Strengthen Instructional Practices:**
  Help teachers adopt the knowledge, skills, and dispositions to use digital tools and platforms for equitable, rigorous and engage remote learning.
