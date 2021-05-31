@@ -3,11 +3,11 @@ title = "6. Agreements (R.O.A.R.S.)"
 weight = 2
 +++
 
-######WAYS TO ENTER THE SPACE TO WORK IN COLLABORATION WITH ONE ANOTHER
+## WAYS TO ENTER THE SPACE TO WORK IN COLLABORATION WITH ONE ANOTHER
 
 
 
-**RESPECT:** Though we may have different backgrounds or points of view, I enter this space respecting every person through my language, gestures, and actions. 
+**RESPECT:** Though we may have different backgrounds or points of view, I enter this space respecting every person through my language, gestures, and actions.
 
 **OPENNESS:** I set the intention to enter this space with an open mind and heart so that I can give and receive information, knowledge, and wisdom through shared experience.
 
