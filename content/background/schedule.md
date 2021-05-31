@@ -3,43 +3,34 @@ title = "7. Schedule"
 weight = 1
 +++
 
-DAY1-SCHEDULE & ACTIVITIES
+## DAY 1
 
+### Keynote Speaker: Andratesha Fritzgerald, *12:00 - 1:15PM*
 
-12:00 -12:45PM: Keynote Speaker, Andratesha Fitzgerald Andratesha
-12:45 -1:15PM: Interactive Question & Answer Session Fritzgerald has worked in education for nearly 20 years. As a teacher, curriculum specialist, and district level administrator she has embraced the hard work and heart work of leading and learning. She is an international keynote speaker, award-winning author and inclusive practices implementation consultant. Her life’s work is to awaken, celebrate and activate brilliance by breaking barriers and stereotypes of teachers, leaders and students to actualize achievement wherever it seems impossible. A self proclaimed book nerd, Jeopardy enthusiast and imagination expert, she loves writing and dreaming out loud with her husband, two children and committed educators who believe in academic success for all. Her new book Antiracism and Universal Design for Learning: Building Expressways to Success (CAST, 2020), is equipping teachers and leaders with the tools they need to make learning personal and possible for every child. Connect with her on buildingblocksofbrilliance.com or on Twitter @FritzTesha
+**Andratesha Fritzgerald**, author of *Antiracism and Universal Design for Learning: Building Expressways to Success* will present on the ways that UDL and culturally responsive and/or sustaining practices open opportunities for learners, particularly multiply marginalized students, during and post-COVID-19.
 
-
-Land & Community Acknowledgement
-Introduction to the DEH Team & Facilitators
-Quick Padlet or Chat - "Introductions"
-R.O.A.R.S. - Agreements
-Background & Purpose of the DEH Caucus
-Brief overview of the Interactive Guidebook
-Brief Overview of the Throughlines in consideration of Keynote perspectives - DEH Facilitator
-Small group activity: Families' values and School's values: What we learned during COVID-19 (and beyond) - JAMBOARD
-SUMMARY
-DAY 1 - CONTINUED
-1:15 - 1:45PM: Introduction to the Digital Education Hub
-BREAK
-1:45 - 2:30PM: The Six Throughlines & Activity 1
-Introduction to an Evaluative Action Plan in relation to Empowering Families and DEH materials
-Large group discussion and takeaways (Think Piece)
-2:45 - 4:00PM: Empowering Families & Activity 2
+### Introduction to the Digital Education Hub, *1:15 - 1:45PM*
 
-DAY 2
+Here we will introduce the DEH Team and Faciliators, provide background and context for the Institute, and go through the interactive guide to talk about content and flow.
 
-1:00 - 1:30PM: Reflection & Interconnections between Throughlines
+### The Six DEH Throughlines & Activity 1 - Values, *1:45 - 2:30PM*
 
-1:30 - 2:30:
--Revisit pre-Institute contributions & yesterday's evaluations- How can we add to or expand these understandings on empowering families & communities?
+We will review the DEH Throughlines in relation to keynote presentation and then engage in an interactive activity comparing family/community values with school values.
 
-BREAK
+### Empowering Families & Activity 2 - Action Plan, *2:45 - 4:00PM*
 
-2:45 - 4:00:
--Group Activity: Revisit Home and School Values; Venn Diagram: How are different identities being included/excluded made visible/invisible in schools (in person, online)? What needs to be considered in Coalition Building?
--Large group discussion and takeaways
--Where do we go from here?
+We will have the opportunity to reflect and write about one of the Throughlines, "Empowering Families and Communities" and complete and evaluative action plan to inform future directions for the DEH.
 
+## DAY 2
 
-
+### Throughlines: Empowering Families & Coalition Building, *1:00 - 1:30PM*
+
+Reflection
+
+### Expanding on Empowering Families & Communities, *1:30 - 2:30PM*
+
+Revisit yesterday's evaluations and add to or expand upon understandings.
+
+### Mapping a Way Forward, *2:45 - 4:00PM*
+
+All stakeholders will consider the two Throughlines in relation to the DEH materials and resources with the aim to produce actionable steps forward in their own specific contexts, thinking about home values, school values, and their intersections.

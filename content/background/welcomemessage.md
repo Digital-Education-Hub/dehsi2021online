@@ -11,6 +11,8 @@ We share your concerns about supporting quality, equitable, and inclusive educat
 
 We are especially excited to welcome our keynote speaker, Andratesha Fritzgerald, author of Antiracism and Universal Design for Learning. She will be engaging with us in this problem-solving journey, sharing her wisdom and experiences to help us to figure out ways to meet the goals of equitable and inclusive education with technology a reality. This caucus is being planned and organized by a dedicated and highly talented group of faculty, staff, and students, all dedicated to not only hearing you, but amplifying your voices and promoting your agency so that all learners—irrespective of race, socioeconomics, ethnicity, home language, religion, or ability—can participate with honor in who they are and where they come from and contribute in meaningful ways to their learning, their classrooms, and their broader communities.
 
-Jeremy F. Price, PhD & Brooke Moreland
-Indiana University School of Education-Indianapolis
-The Digital Education Hub (DEH)
+**Jeremy F. Price, PhD** & **Brooke Moreland, PhD**
+
+[Indiana University School of Education - Indianapolis at IUPUI](https://education.iupui.edu/)
+
+[The Digital Education Hub](https://www.digitaleducationhub.org/)
