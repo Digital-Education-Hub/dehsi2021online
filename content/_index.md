@@ -12,7 +12,3 @@ This website is the online version of the printed workbook for the DEH Summer In
 The website is set up to mirror the structure of the workbook. Use the navigation items to move through the workbook.
 
 We look forward to working with you during the Summer Institute!
-
-{{< inquiry include="engage, reflect, integrate, interact" >}}
-
-{{< qualtrics qid="SV_88pWPXjyLinhTE1" name="Test Survey" >}}
