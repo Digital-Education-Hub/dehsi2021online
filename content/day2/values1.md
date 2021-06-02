@@ -1,6 +1,7 @@
 +++
 title = "6. Home and School Values Part 1"
 weight = 3
+draft = true
 +++
 
 Revisit the Jamboard from yesterday on home and school values in the "Getting to Know Each Other" activity.
