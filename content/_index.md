@@ -14,4 +14,5 @@ The website is set up to mirror the structure of the workbook. Use the navigatio
 We look forward to working with you during the Summer Institute!
 
 ## How To Use This Online Workbook
+
 {{< youtube id="XX0xvBAu6kI" title="Introducing the Digital Education Hub Summer Institute 2021 Online Workbook" >}}
